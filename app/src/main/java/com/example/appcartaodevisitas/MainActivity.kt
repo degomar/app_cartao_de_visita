@@ -14,15 +14,16 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
 
-        binding.btnAddCard.setOnClickListener {
-           val addIntent = Intent(this, AddBusinessCardActivity::class.java)
-            startActivity(addIntent)
+        addListener()
         }
 
+
+fun addListener(){
+    binding.btnAddCard.setOnClickListener {
+        val addIntent = Intent(this, AddBusinessCardActivity::class.java)
+        startActivity(addIntent)
     }
-
-
-
+}
 
 }
 

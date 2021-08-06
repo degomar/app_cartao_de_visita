@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">App cartao de visitas</string>
     <string name="add_card">Adicionar cartão</string>
+    <string name="header_AlertDialog">Deseja descartar as alterações feitas?</string>
 </resources>
