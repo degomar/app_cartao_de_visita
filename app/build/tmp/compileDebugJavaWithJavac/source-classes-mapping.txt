@@ -1,0 +1,8 @@
+com/example/appcartaodevisitas/BuildConfig.java
+ com.example.appcartaodevisitas.BuildConfig
+com/example/appcartaodevisitas/databinding/ActivityAddBusinessCardBinding.java
+ com.example.appcartaodevisitas.databinding.ActivityAddBusinessCardBinding
+com/example/appcartaodevisitas/databinding/ItemBusinessCardBinding.java
+ com.example.appcartaodevisitas.databinding.ItemBusinessCardBinding
+com/example/appcartaodevisitas/databinding/ActivityMainBinding.java
+ com.example.appcartaodevisitas.databinding.ActivityMainBinding
